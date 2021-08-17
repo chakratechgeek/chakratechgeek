@@ -1,2 +1,2 @@
 echo "chaks da"
-echo "fuck da now"
+echo "fuck da now
