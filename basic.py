@@ -3,3 +3,4 @@ print ("Welcome fucker")
 print ("New line")
 #dummy
 print ("man")
+print ("what a man")
